@@ -22,9 +22,9 @@ Then you can install cogs: `[p]cog install rusty-cogs cogname`
 
 There's a list of cogs below, or you can use `[p]cog list rusty-cogs` if you've added the repo.
 
-| Cog name            | Description |
-|---------------------| --- |
-| [chacall](chacall/) | Get all the information you could ever need about a command's aliases. |
+| Cog name            | Description                                     |
+|---------------------|-------------------------------------------------|
+| [chacall](chacall/) | Use it to call all active members in a channel. |
 
 [//]: # (All these cogs have docs! My docs [are here]&#40;https://cogdocs.vexcodes.com/en/latest&#41; or click on the cog name to go directly to that cog's docs page.)
 
