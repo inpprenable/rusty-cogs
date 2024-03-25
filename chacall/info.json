@@ -1,0 +1,27 @@
+{
+  "author": [
+    "inpprenable"
+  ],
+  "name": "chacall",
+  "install_msg": "Please ensure the bot has the necessary permissions to manage roles before using this command.",
+  "description": "chacall is a command that combines 'channel' and 'call'. It allows you to ping all active members in a channel.",
+  "short": "Use it to call all active members in a channel",
+  "hidden": false,
+  "min_bot_version": "3.5.6",
+  "tags": [
+    "chacall"
+  ],
+  "permissions": [
+    "manage_messages",
+    "manage_roles"
+  ],
+  "requirements": [
+  ],
+  "min_python_version": [
+    3,
+    9,
+    0
+  ],
+  "end_user_data_statement": "This cog does not store any End User Data.",
+  "type": "COG"
+}
